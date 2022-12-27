@@ -1,3 +1,15 @@
+# REACT ADMIN PAGE
+
+## Tech used
+
+- React
+- Material UI
+- Nivo Charts
+- Formik
+- Yup
+- FullCalendar
+- Data Grid
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
